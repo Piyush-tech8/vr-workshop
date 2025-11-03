@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> PIYUSH KUMAR
 :--|:--|
 <b> Institute | <b>  Rajkiya ngineering college Banda
 <b> Email id|    <b>  kumarpiyush718978@
